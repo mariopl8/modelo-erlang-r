@@ -20,7 +20,7 @@ Modelar el tiempo de espera de procesos utilizando una distribución Erlang.
 
 ## Créditos
 
-Proyecto realizado por **Mario Pérez Landeros** con la guía del profesor **M.C.C. Enrique Díaz Ocampo**  
+Proyecto realizado por **Mario Pérez Landeros** el 03 de marzo del 2025 con la guía del profesor **M.C.C. Enrique Díaz Ocampo**  
 Curso: Probabilídad Multivariada — Universidad La Salle Cuernavaca
  
 ## Agradecimiento
